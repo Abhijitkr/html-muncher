@@ -1,7 +1,7 @@
 # ABOUT
 
 
-HTML Muncher is a Python utility that rewrites CSS, HTML, and JavaScript files in order to save precious bytes and obfuscate your code
+HTML Muncher is a Python utility that rewrites CSS, HTML, and JavaScript files in order to save precious bytes and obfuscate your code.
 
 ### If your stylesheet starts looking out like this:
 
